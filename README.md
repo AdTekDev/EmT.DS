@@ -1,4 +1,6 @@
 # EmT.DS
+Exercises  
+- https://drive.google.com/drive/u/0/folders/1wsWtPWoJFXrX_BSSCh_xMSjccZYYpx_E 
 
 ## Tuần 1. Căn bản các lệnh Python:
 Link: https://colab.research.google.com/drive/1cPjKoeszaWQcddMXVitLfDbjlGOhMC15

@@ -1,6 +1,10 @@
 # EmT.DS
-Exercises  
+
+## Exercises  
 - https://drive.google.com/drive/u/0/folders/1wsWtPWoJFXrX_BSSCh_xMSjccZYYpx_E 
+- https://www.w3schools.com/python/pandas
+- https://www.w3schools.com/datascience/
+
 
 ## Tuần 1. Căn bản các lệnh Python:
 Link: https://colab.research.google.com/drive/1cPjKoeszaWQcddMXVitLfDbjlGOhMC15

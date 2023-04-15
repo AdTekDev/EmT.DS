@@ -44,6 +44,7 @@ Link:  https://colab.research.google.com/drive/1eEEJKppjk2fEMYRdhpyaUib3eEu4sSBX
 
 ## Tuần 4. Máy học cơ bản  
 Link:  https://colab.research.google.com/drive/1v6FAZsQqRcO9rWCws66iLCNbRT-2kHN3
+- https://colab.research.google.com/drive/1YrUbEwHfqQXnfK6RnETdos-3l0PpKPgP?usp=sharing  
 - https://www.tensorflow.org/guide/basic_training_loops 
 
 ## Tuần 5. Các bước thực hiện trong máy học (Train Valid Test)  

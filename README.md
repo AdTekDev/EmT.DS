@@ -33,16 +33,26 @@ Link:  https://colab.research.google.com/drive/1LZZlTBPw6dK6svjqhLElO6zzVH5jUEV3
 Link:  https://colab.research.google.com/drive/1eEEJKppjk2fEMYRdhpyaUib3eEu4sSBX 
 
 
+## Tuần 4. Quantum  
+- https://quantum-computing.ibm.com/composer/docs/iqx/guide/the-qubit  
+- https://quantum-computing.ibm.com/composer/  
+- 
+- https://algassert.com/quirk  
+- https://quantumai.google/qsim/tutorials/qsimcirq  
+- https://quantiki.org/wiki/list-qc-simulators  
+
 ## Tuần 4. Máy học cơ bản  
 Link:  https://colab.research.google.com/drive/1v6FAZsQqRcO9rWCws66iLCNbRT-2kHN3
 
-## Tuần 4.2. Máy học cơ bản tt  
-Link:  https://colab.research.google.com/drive/1LZxv8N3Uq-Za3UwcGAg8SgGxFHv4ppJU
-
-## Tuần 4.3. Máy học cơ bản tt  
-https://colab.research.google.com/drive/1AGOPiJQf4D1tP8V7zUQ53FoIPuXapue2
-
 ## Tuần 5. Các bước thực hiện trong máy học (Train Valid Test)  
 Link:  https://colab.research.google.com/drive/147wpNUeqmcERMze4tZbg79Pfp6MBRY9y
+
+## Tuần 5.2. Máy học cơ bản tt  
+Link:  https://colab.research.google.com/drive/1LZxv8N3Uq-Za3UwcGAg8SgGxFHv4ppJU
+
+## Tuần 5.3. Máy học cơ bản tt  
+https://colab.research.google.com/drive/1AGOPiJQf4D1tP8V7zUQ53FoIPuXapue2
+
+
 
 

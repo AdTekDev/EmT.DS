@@ -1,3 +1,7 @@
+# Slides
+- https://drive.google.com/drive/folders/1gOwajg0wCZ9FJMZEzBwuSX5_NThWcwY7  
+
+
 # EmT.DS
 
 ## Exercises  

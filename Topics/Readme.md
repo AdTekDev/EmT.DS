@@ -5,6 +5,9 @@ Lần 1: (tuần 9,10,11)
 - Nêu lưu đồ xử lý
 - Mô tả thư viện sử dụng trong bài toán
 - Chi tiết Input - Output của các Function / Methods sử dụng
+- Code ví dụ từng Function cho các nhóm khác làm theo
+- Bộ câu hỏi tình huống cho các nhóm
+- Đánh giá dựa trên: 50% trắc nghiệm  + 50% cho điểm từ các nhóm 
 
 Lần 2: (tuần 13,14,15)
 - Nêu các tình huống Chạy thử
@@ -12,7 +15,7 @@ Lần 2: (tuần 13,14,15)
 - Các kết quả và so sánh kết quả 
 - Nhận xét 
 - (cải tiến)
-
+- Đánh giá từ: 50% của GV + 50% đánh giá từ các nhóm 
 
 ## 2023.04
 

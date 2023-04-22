@@ -1,7 +1,7 @@
 
 
 ## Bài tập - Giá nhà đất  
-- https://github.com/AdTekDev/EmT.DS/blob/main/08-Data/VD02.md  
+- data-RealEstateDataSet.csv 
 - Dataset - https://www.kaggle.com/datasets/arslanali4343/real-estate-dataset?select=data.csv  
 
 

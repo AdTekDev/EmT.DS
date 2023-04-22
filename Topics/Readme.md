@@ -1,3 +1,18 @@
+## Yêu cầu chung
+Lần 1: (tuần 9,10,11)
+- Mô tả bài toán
+- Mô tả giải thuật
+- Nêu lưu đồ xử lý
+- Mô tả thư viện sử dụng trong bài toán
+- Chi tiết Input - Output của các Function / Methods sử dụng
+
+Lần 2: (tuần 13,14,15)
+- Nêu các tình huống Chạy thử
+- Các bộ tham số
+- Các kết quả và so sánh kết quả 
+- Nhận xét 
+- (cải tiến)
+
 
 ## 2023.04
 

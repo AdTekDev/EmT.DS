@@ -60,6 +60,12 @@ Link:  https://colab.research.google.com/drive/1LZxv8N3Uq-Za3UwcGAg8SgGxFHv4ppJU
 ## Tuần 5.3. Máy học cơ bản tt  
 https://colab.research.google.com/drive/1AGOPiJQf4D1tP8V7zUQ53FoIPuXapue2
 
+## Links:
+- https://scikit-learn.org/stable/supervised_learning.html 
+- https://machinelearningcoban.com/2016/12/27/categories/ 
+- https://ongxuanhong.wordpress.com/2019/04/17/data-science-mini-course/  
+- https://khanh-personal.gitbook.io/ml-book-vn/machine-learning-la-gi  
+- http://viet.jnlp.org/kien-thuc-co-ban-ve-xu-ly-ngon-ngu-tu-nhien/machine-learning-trong-nlp/khai-quat-ve-may-hoc  
 
 
 

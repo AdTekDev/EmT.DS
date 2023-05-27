@@ -7,7 +7,7 @@ Lần 1: (tuần 11,12)
 - Chi tiết Input - Output của các Function / Methods sử dụng
 - Code ví dụ từng Function cho các nhóm khác làm theo
 - Bộ câu hỏi tình huống cho các nhóm
-- Gửi lên hệ thống (cuối tuần 10 - 29/5):  pptx (30+ slides), (ipynb, data) ví dụ từng Method với từng bộ tham số, txt 10-20 câu hỏi trắc nghiệm  
+- Gửi lên hệ thống (đầu tuần 11 - 30/5):  pptx (30+ slides), (ipynb, data) ví dụ từng Method với từng bộ tham số, txt 10-20 câu hỏi trắc nghiệm  
 - Đánh giá dựa trên: 50% trắc nghiệm  + 50% cho điểm từ các nhóm 
 
 Lần 2: (tuần 14,15)

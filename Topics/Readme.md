@@ -9,6 +9,8 @@ Lần 1: (tuần 11,12)
 - Bộ câu hỏi tình huống cho các nhóm
 - Gửi lên hệ thống (đầu tuần 11 - 30/5):  pptx (30+ slides), (ipynb, data) ví dụ từng Method với từng bộ tham số, txt 10-20 câu hỏi trắc nghiệm  
 - Đánh giá dựa trên: 50% trắc nghiệm  + 50% cho điểm từ các nhóm 
+(link:  https://forms.gle/5mQWkjeeTJYM9Msj6) 
+
 
 Lần 2: (tuần 14,15)
 - Nêu các tình huống Chạy thử

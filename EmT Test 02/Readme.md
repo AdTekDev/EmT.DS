@@ -2,7 +2,7 @@
 ## Object detection
 
 ### Time:
-- 6-22/06/2023 (updated 17/6 -> 22/6: The submission deadline has been updated for 3 more days.)
+- 6-22/06/2023 (updated 17/6 -> 22/6: The submission deadline has been updated for 5 more days.)
 
 
 ### Data:

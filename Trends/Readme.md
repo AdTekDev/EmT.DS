@@ -2,6 +2,17 @@
 # Trends
 
 
+## Gartner (2024)
+
+![impact-radar-2024-1](https://github.com/AdTekDev/EmT.DS/assets/18588011/b23020c2-e47c-4c02-bd59-f7cb2b7aa358)
+
+REFs:  https://www.gartner.com/en/articles/30-emerging-technologies-that-will-guide-your-business-decisions 
+
+## MIT
+
+REFs: https://www.technologyreview.com/2024/01/08/1085094/10-breakthrough-technologies-2024/  
+
+
 ## icreatives.com 2022
 
 Predicting the future of programming languages is challenging, but we can identify some trends and directions based on current developments and industry needs. Here are some potential aspects of the future of programming languages:

@@ -8,7 +8,7 @@
 
 REFs:  https://www.gartner.com/en/articles/30-emerging-technologies-that-will-guide-your-business-decisions 
 
-## MIT
+## MIT Technology Review
 
 REFs: https://www.technologyreview.com/2024/01/08/1085094/10-breakthrough-technologies-2024/  
 

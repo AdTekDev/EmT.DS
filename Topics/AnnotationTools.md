@@ -8,3 +8,4 @@
 ## REFs
 - https://www.v7labs.com/blog/best-image-annotation-tools
 - https://app.cvat.ai/
+- https://www.labellerr.com/blog/top-10-image-labeling-tool-of-2023/ 

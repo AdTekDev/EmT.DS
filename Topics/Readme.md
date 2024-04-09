@@ -50,8 +50,7 @@ GEN.006	LLM Applications with LangChain 	https://www.datacamp.com/tutorial/how-t
 GEN.007	Mistral Large Model	https://www.datacamp.com/tutorial/guide-to-working-with-the-mistral-large-model  
 GEN.008	LLM 02	https://dev.to/pavanbelagatti/a-beginners-guide-to-building-llm-powered-applications-with-langchain-2d6e  
 GEN.009	Using Transformers and Hugging Face	https://www.datacamp.com/tutorial/an-introduction-to-using-transformers-and-hugging-face  
-GEN.010	Transformers	https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb#scrollTo=WGnElSPY7ta7  
-![image](https://github.com/AdTekDev/EmT.DS/assets/18588011/3dc9055e-0c3f-4661-8d54-a2f91f76897f)
+GEN.010	Transformers	https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb#scrollTo=WGnElSPY7ta7    
 
 
 ``` OLDs

@@ -9,3 +9,11 @@ https://raw.githubusercontent.com/Apress/data-analysis-and-visualization-using-p
 - Khu vực nào bán tốt trong quý 2 ?  
 - Kết quả kinh doanh trung bình Sale theo khu vực  
 
+## W05.02
+
+Cho thông tin GDP của các quốc qia trong vài năm trong tập tin:  
+
+https://raw.githubusercontent.com/Apress/data-analysis-and-visualization-using-python/master/Ch05/1.%20Export1_Columns.csv  
+- Xác định tỷ lệ GDP của từng nước trên thế giới trong từng năm  
+- Xác định Top 10 GDP qua các năm  
+- Các quốc gia nào ổn định top 10 trong tất cả các năm ?  

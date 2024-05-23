@@ -9,7 +9,11 @@ https://raw.githubusercontent.com/AdTekDev/EmT.DS/
 
 ## Grading:  
 - MIN:  3 correct predicted images / 10 images --> mark 5 / 10  
-- Mark 9-10: predict 5 more random photos  
+- Mark 9-10:
+  . TestSET : min 12 images (2+ images / label - class)
+  . (re)Test: predict 5 more random photos
+  . Predict the images of (un)trained labels/classes
+- 
 
 ## Submit:   
 1. ipynb

@@ -11,6 +11,10 @@
 ### iPyNB
 - https://colab.research.google.com/drive/1hRKZ8fme9r-nJhc31f2jucjebw7I6NtD?usp=sharing  
 
+### Annotation Tools
+- https://universe.roboflow.com/nhu-z3oe2/nhau/model/
+- https://app.cvat.ai/tasks/717049/jobs/922486 
+
 ## Links:  
 - https://www.tensorflow.org/hub/tutorials/object_detection
 - https://viblo.asia/p/su-dung-tensorflow-api-cho-bai-toan-object-detection-aWj534YGK6m  

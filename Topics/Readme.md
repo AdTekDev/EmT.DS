@@ -12,7 +12,7 @@ Lần 1: (tuần 7-9)
 (link:  https://forms.gle/5mQWkjeeTJYM9Msj6) 
 
 
-Lần 2: (tuần 14,15)
+Lần 2: (tuần 12-14)
 - Nêu các tình huống Chạy thử
 - Các bộ tham số
 - Các kết quả và so sánh kết quả 

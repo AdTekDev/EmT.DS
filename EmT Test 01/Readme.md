@@ -20,3 +20,7 @@ https://raw.githubusercontent.com/AdTekDev/EmT.DS/
 2. model h5
 3. data(old+new files)
 4. Image - final predict (1 result / 1 row : file name, (predicted) label, accuracy)  
+
+REF:
+- IMG.001	Classify images of clothing	https://www.tensorflow.org/tutorials/keras/classification
+- IMG.003	Object Detection 	https://www.tensorflow.org/hub/tutorials/object_detection  

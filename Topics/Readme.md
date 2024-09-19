@@ -25,9 +25,8 @@ Lần 2: (tuần 12-14)
 ## Topics 2024.04
 
 ### IMG		
-- IMG.001	Classify images of clothing	https://www.tensorflow.org/tutorials/keras/classification   
+
 - IMG.002	Generate Artificial Faces with CelebA Progressive GAN Model	https://www.tensorflow.org/hub/tutorials/tf_hub_generative_image_module  
-- IMG.003	Object Detection 	https://www.tensorflow.org/hub/tutorials/object_detection  
 - IMG.004	Generating Images with BigGAN	https://www.tensorflow.org/hub/tutorials/biggan_generation_with_tf_hub  
 - IMG.005	Generating Images with BigBiGAN	https://www.tensorflow.org/hub/tutorials/bigbigan_with_tf_hub  
 - IMG.006	Generating Images with Little Data Using S3GAN	https://www.tensorflow.org/hub/tutorials/s3gan_generation_with_tf_hub  

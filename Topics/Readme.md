@@ -1,5 +1,5 @@
 ## Yêu cầu chung
-Lần 1: (tuần 11,12)
+Lần 1: (tuần 7-9)
 - Mô tả bài toán
 - Mô tả giải thuật
 - Nêu lưu đồ xử lý

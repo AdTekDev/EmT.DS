@@ -26,3 +26,6 @@
 ➤ TDF (Stanford) – Task schema for modular prompt planning and goal coordination
 
 ➤ FCP (OpenAI) – A standardized way to invoke LLM functions with schema enforcement
+
+
+![image](https://github.com/user-attachments/assets/154f8260-3a62-4d25-ab0a-70b01e8188a4)

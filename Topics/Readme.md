@@ -22,7 +22,7 @@ Lần 2: (tuần 12-14)
 - Đánh giá từ: 50% của GV + 50% đánh giá từ các nhóm 
 
 
-## Topics  2025.04
+## Topics  2025.09
 
 ### LLM		  
 - **LLM.2501**	LLM Applications with LangChain 	https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain  
@@ -47,23 +47,7 @@ Lần 2: (tuần 12-14)
 - **AgAI.2502**	Langchain - chain	https://github.com/langchain-ai/langchain-academy/blob/main/module-1/chain.ipynb  
 - **AgAI.2503**	CrewAI Agent	https://docs.crewai.com/quickstart  ,  https://github.com/crewAIInc/crewAI 
 - **AgAI.2504**	BabyAGI	https://github.com/yoheinakajima/babyagi  
-
-### IMG		  
-- **IMG.2501**	Generating Images with BigGAN	https://www.tensorflow.org/hub/tutorials/biggan_generation_with_tf_hub  
-- **IMG.2502**	Generating Images with BigBiGAN	https://www.tensorflow.org/hub/tutorials/bigbigan_with_tf_hub  
-- **IMG.2503**	Generate Artificial Faces with CelebA Progressive GAN Model 	https://www.tensorflow.org/hub/tutorials/tf_hub_generative_image_module  
-- **IMG.2504**	Boundless Colab	https://www.tensorflow.org/hub/tutorials/boundless  
-		
-### Video		  
-- **VID.2501**	Text-to-Video retrieval with S3D MIL-NCE	https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce  
-		
-		
-### GEN		  
-- **GEN.2501**	High-performance image generation using Stable Diffusion in KerasCV	https://www.tensorflow.org/tutorials/generative/generate_images_with_stable_diffusion  
-- **GEN.2502**	CycleGAN	https://www.tensorflow.org/tutorials/generative/cyclegan  
-- **GEN.2503**	Mistral Large Model	https://www.datacamp.com/tutorial/guide-to-working-with-the-mistral-large-model  
-- **GEN.2504**	Using Transformers and Hugging Face	https://www.datacamp.com/tutorial/an-introduction-to-using-transformers-and-hugging-face  
-- **GEN.2505**	Transformers	https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb#scrollTo=WGnElSPY7ta7  
+- **AgAI.2505**	n8n - https://github.com/n8n-io/   ;   https://docs.n8n.io/advanced-ai/intro-tutorial/  
 			
 		
 ### REFs		
